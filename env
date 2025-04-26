@@ -1,2 +1,2 @@
-TELEGRAM_TOKEN=your_telegram_bot_token
-DATABASE_URL=postgres://postgres:your_password@db.project-ref.supabase.co:5432/postgres
+TELEGRAM_TOKEN=7985751789:AAGo7M-o_kdIJeGnrvuxdRbu451Hg4_KcQ8
+DATABASE_URL=postgresql://postgres:Takla321!@db.tccatfbicqgqijwzaeeu.supabase.co:5432/postgres
